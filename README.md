@@ -1,5 +1,5 @@
 # Neon Core
-
+v.1.2_1
 Neon Core is a fast-paced 2D action roguelike game, architected and developed entirely with the assistance of Artificial Intelligence via the Google AI Studio platform using the Gemini model.
 
 ## Overview
